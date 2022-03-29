@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SURAJIT PATTANAYAK
-- 👀 I’m interested in WEB DEVELOPEMENT
+- 👀 I’m interested in WEB DEVELOPEMENT.
 - 🌱 I’m currently learning Bachelor Of Technology(B.Tech)
 - 💞️ I’m looking to collaborate with WEB DEVELOPERS.
 
